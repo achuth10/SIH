@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "716769822292",
+    "firebase_url": "https://mystic-berm-267215.firebaseio.com",
+    "project_id": "mystic-berm-267215",
+    "storage_bucket": "mystic-berm-267215.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716769822292:android:58e2aae4cee8c7d3d74fc1",
+        "android_client_info": {
+          "package_name": "com.example.sih"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716769822292-mgkdqhivc25gunp9bs4o3hopd0b7tl36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE1pjt_h9sFW9UMHitHqgmzNGw-794oOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716769822292-mgkdqhivc25gunp9bs4o3hopd0b7tl36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
